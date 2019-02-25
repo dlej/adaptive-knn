@@ -1,0 +1,6 @@
+*.cpp
+*.so
+*.pyc
+*-checkpoint.ipynb
+*.o
+results
